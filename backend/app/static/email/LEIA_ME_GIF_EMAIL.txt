@@ -1,0 +1,9 @@
+Para aparecer no e-mail, salve seu GIF neste caminho:
+
+backend/app/static/email/email_gif.gif
+
+O nome precisa ser exatamente:
+
+email_gif.gif
+
+Depois de colocar ou trocar o GIF, pare e rode o backend novamente.

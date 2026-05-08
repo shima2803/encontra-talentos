@@ -1,0 +1,12 @@
+COMO COLOCAR A SUA LOGO NO PORTAL
+==================================
+
+1. Salve sua logo em PNG com o nome EXATO: logo.png
+2. Coloque o arquivo nesta pasta (frontend/public/logo.png)
+3. Recomendado: imagem quadrada (ex: 256x256) com fundo transparente
+4. Recarregue a pagina (Ctrl+Shift+R)
+
+A logo aparecera automaticamente no Header, Footer e como icone do site.
+
+Se voce NAO colocar o arquivo logo.png, o site usa um SVG estilizado
+parecido com a sua logo (lupa azul + pessoas turquesa) como fallback.
