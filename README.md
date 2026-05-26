@@ -1,4 +1,4 @@
-# Encontra Talentos — Portal de Recrutamento Inteligente
+# Encontra Talentos — Portal de 
 
 > Plataforma completa de recrutamento que conecta candidatos a empresas, com agregação de vagas externas e análise automática de aderência via IA.
 
